@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+
+commands 
+npx -p @angular/cli@12.2.0 ng new lib-crypto-ninja --no-create-application
+
+ng generate library lib-crypto-ninja
+
+
+ng build lib-crypto-ninja --configuration development
+
